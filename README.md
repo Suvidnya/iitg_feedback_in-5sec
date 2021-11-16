@@ -1,4 +1,4 @@
-## Fill your feedback form in 5 sec.
+## Fill your feedback form in 5 sec. (Only for IITG Students)
 
 Edit the code (value) as per your requirement.
 
