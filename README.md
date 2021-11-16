@@ -43,7 +43,7 @@ Edit the code (value) as per your requirement.
 - Enter the above given code
 
 
-- Change the values as per your requirement
+- Change the value as per your requirement
 
 - And press Enter ![ss5](https://user-images.githubusercontent.com/78336837/141950083-10ff1577-50c3-48b6-a215-633f5f945c42.png)
 - After that all checboxes will be selected respective to the values you entered ![s6](https://user-images.githubusercontent.com/78336837/141950177-9fb29872-d73d-477a-aa99-938e4b05d50f.png)
