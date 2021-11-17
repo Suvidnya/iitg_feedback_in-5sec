@@ -20,10 +20,10 @@ Edit the code (value) as per your requirement.
 
 
 ```bash
-  var btns = document.querySelectorAll('input[type="radio"]')
-  for(var i=0;i<btns.length;i++){
-  if(btns[i].value=="6")
-    btns[i].checked=true;
+  var but = document.querySelectorAll('input[type="radio"]')
+  for(var i=0;i<but.length;i++){
+  if(but[i].value=="6")
+    but[i].checked=true;
  }
 
 ```
